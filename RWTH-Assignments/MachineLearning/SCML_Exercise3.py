@@ -2,7 +2,6 @@
 ##
 # Statistical Classification and Machine Learning
 # Exercise 3
-# Valeriia Volkovaia 384024, Xiaoqi Ma 383420, Paul Weiser 356606
 ##
 ##################################################################
 
